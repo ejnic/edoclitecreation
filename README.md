@@ -9,4 +9,4 @@ First piece of work needed is to gather the program codes for the departments
 from the student information system (SIS).
 
 private.py contains oracle connection info and SQL needed to get data from SIS.
-It also contains local path variables from writing files out as needed.
+It also contains local path variables for writing files out as needed.
